@@ -42,6 +42,13 @@ body {
     font-size: 1.125rem;
 }
 
+.input {
+    margin: .5rem auto;
+    padding: .5rem;
+    border-radius: .5rem;
+    border: 2px dotted black;
+}
+
 .check-btn{
     display: block;
     margin: 2rem auto;
